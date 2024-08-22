@@ -5,7 +5,7 @@ Mini Datathon para el análisis de datos de una API con datos relativos a incide
 
 -   Clonar el repositorio
     ```bash
-        git clone https://github.com/AI-School-F5-P3/MiniDatathon_Angel_Maria.git
+        git clone https://github.com/AI-School-F5-P3/MiniDatathon_Grupo1.git
     ```
 -   Inicializa un entorno virtual
     ```bash
